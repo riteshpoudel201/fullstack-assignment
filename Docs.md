@@ -9,3 +9,5 @@ Download all the required libraries such as react-router-dom, axios and tailwind
 Here, dont do npm install tailwindcss instead copy cdn link to the index.html file inside public folder.
 Copy paste all the folder and files on that.
 Simply, start the server and enjoy semi-completed work.
+
+At last, to add books simply type the localhost:5000/addbooks
